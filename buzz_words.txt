@@ -1,0 +1,34 @@
+multiphysics
+plasma layer
+plasma vortex
+MHD flow control
+lightning plasma
+electron no. density
+space
+spacecraft
+hypersonic
+supersonic
+earth reentry
+shock wave
+shock layer
+aerospace
+magnetohydrodynamics
+electrodynamic effects
+Lorentz force
+magnetic window
+magnetic heatshield
+radio blackout
+telecommunications
+19 species EoS
+ghost fluid method
+multimaterial
+hyperbolic PDEs
+elliptic PDEs
+magnetic Reynold's no.
+simulation
+elastoplastic
+material coupling
+hydrodynamic
+electromagnet
+superconducting
+cut-cells
